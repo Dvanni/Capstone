@@ -1,4 +1,5 @@
 Capstone Project: Leveraging SQL for Enhanced Business Processing
+
 Overview
 This Capstone project focuses on the utilization of SQL (Structured Query Language) to optimize and enhance business processing. With the exponential growth of data in various industries, efficient data management and analysis have become imperative for organizations to stay competitive. SQL, as a powerful tool for managing and querying relational databases, plays a crucial role in this process.
 
